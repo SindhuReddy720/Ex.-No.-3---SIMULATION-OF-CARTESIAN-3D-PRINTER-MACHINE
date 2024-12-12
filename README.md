@@ -1,10 +1,11 @@
 # Ex. No.  - SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE
-### DATE: 
+### DATE: 12/12/2024
 
 ## AIM:
 ### To simulate the construction of cartesian 3D printer and to get in-depth knowledge of mechatronics of cartesian 3D printers.
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/69572917-1257-45d7-bf57-ff48a6e5a711)
+![Screenshot 2024-12-12 113501](https://github.com/user-attachments/assets/04ba73d0-37cc-43dc-aea1-a631df5fd5fe)
+
 
 ## REQUIREMENTS:
 ### ●	System - Windows 7 or higher, 1 GB RAM.
@@ -48,20 +49,22 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/3b394ffa-4aea-4e56-a12b-eccab47afee5)
+![Screenshot 2024-12-12 112319](https://github.com/user-attachments/assets/4eae82b5-462c-4351-8ddf-46855f6c7c3c)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/cf47ce68-c7b4-4cbc-b57f-ccd68b7bcbb7)
+![Screenshot 2024-12-12 105924](https://github.com/user-attachments/assets/55fef3d4-b482-4c3c-973e-f71bcbb018e1)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/803397cb-5685-4bc2-82c2-6b1d1e3a2eec)
+![Screenshot 2024-12-12 112728](https://github.com/user-attachments/assets/32c0fae5-513a-4b2d-8cf4-bdc040890036)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/45ac4da8-f236-4e23-b0ce-a77aac6ac8b0)
+![Screenshot 2024-12-12 111507](https://github.com/user-attachments/assets/17336c74-b237-40cb-bd69-b79bf725ebff)
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![Screenshot 2024-12-12 113634](https://github.com/user-attachments/assets/42fcac22-4715-4692-8c3b-e3d942eb4228)
+
 
 ## Output:
+![Screenshot 2024-12-12 103047](https://github.com/user-attachments/assets/a4ea0bec-e3c8-4f30-9108-b552fad812f9)
 
-### Name: 
-### Register Number:
+### Name: PELLETI SINDHU SRI
+### Register Number:24006305
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
